@@ -1,4 +1,4 @@
-### <h1 align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Sepehr+Toghtamesh;I'm+happy+to+meet+you,+my+dear!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=FDC435&size=30">
 </h1>
 
@@ -10,14 +10,12 @@ I am a Front-END developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### 📌 My Social
 
-<div align="center">
-    
+<div align="right">
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sepehrToghtamesh)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge)](https://github.com/SepehrToghtamesh)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:sphr.toghtamesh.79@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/sphr00)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_sphram)
-    
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_sphram)    
 </div>
 
 ---
